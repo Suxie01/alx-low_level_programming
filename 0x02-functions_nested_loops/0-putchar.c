@@ -1,22 +1,21 @@
 #include "main.h"
 
 /*
- * main - function to print
+ * main - function to print '_putchar'
  *
  * Return: 0
  */
-
 int main(void)
 {
-	int _putchar(int; '_');
-	int _putchar(int; 'p');
-	int _putchar(int; 'u');
-	int _putchar(int; 't');
-	int _putchar(int; 'c');
-	int _putchar(int; 'h');
-	int _putchar(int; 'a');
-	int _putchar(int; 'r');
-	int _putchar(int; '\n');
+	int _putchar('_');
+	int _putchar('p');
+	int _putchar('u');
+	int _putchar('t');
+	int _putchar('c');
+	int _putchar('h');
+	int _putchar('a');
+	int _putchar('r');
+	int _putchar('\n');
 
 	return (0);
 }

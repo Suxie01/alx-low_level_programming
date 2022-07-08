@@ -1,6 +1,7 @@
 #include <stdio.h>
-/*
- * main - Entry point
+/**
+ * main - entry point
+ * description - prints using printf
  *  Return: Always 0 (success)
  */
 int main(void)

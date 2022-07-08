@@ -19,12 +19,14 @@ int main(void)
 					{
 						printf("and is greater than 5\n");
 					}
+
 					printf("Last digit of 980 ");
 					printf("is 0 ");
 					if (n == 0)
 					{
 						printf("and is 0\n");
 					}
+
 					printf("Last digit of -98 ");
 					printf("is -8 ");
 					if (n < 6 && n != 0)

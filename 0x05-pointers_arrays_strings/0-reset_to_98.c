@@ -2,11 +2,12 @@
 #include <stdio.h>
 
 /**
- *  * main - check the code 
- *   *
- *    * Return: Always 0.
+ *  reset_to_98- changes the value of n
+ *  @n: the value to be changed
+ *
+ *  Return: Always 0.
  */
-int reset_to_98(int *n)
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
